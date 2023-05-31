@@ -1,7 +1,8 @@
 = Changes
-4.6.0 / Nov 24 2022
+4.5.13 / May 31 2023
 
     Add loongarch64 architecture type
+    Add all DisplayType's
 
 4.5.12 / Sep 29 2022
 
